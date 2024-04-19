@@ -14,5 +14,5 @@ RVGPU是一个基于RISC-V指令集实现的开源GPU项目，项目目标是提
 邮箱:
 qihangkong@outlook.com
 
-# 加入开发者群
-欢迎加入开发者群，可添加微信：hangkong_77
+# 加入开发讨论群
+欢迎加入开发讨论群，可添加微信：hangkong_77
