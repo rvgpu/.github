@@ -4,8 +4,6 @@
 
 目前还在很早期的开发阶段，我们将致力于开发可用的开源GPU。
 
-本仓库为镜像仓库，开发仓库存放在GitHub： https://github.com/rvgpu
-
 # 项目进展
 v0.1：实现了基于RISC-V指令集的GPU模拟器；
 v0.2：实现了对RVGPU的的Cuda支持验证；
