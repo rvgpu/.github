@@ -16,6 +16,5 @@ v0.3（Doing）：全新GPU指令集的设计，并完成初始验证。
 文档: https://rvgpu.gitee.io 或者 https://rvgpu.github.io/pages/
 
 # 联系我们
-微信：hangkong_77
 邮箱: qihangkong@outlook.com
 
