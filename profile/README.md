@@ -13,7 +13,7 @@ v0.3（Doing）：全新GPU指令集的设计，并完成初始验证。
 # 怎么玩起来
 顶层仓库入口：https://github.com/rvgpu/rvgpu , 项目所有仓库都包含在顶层仓库的submodule中。
 
-文档: https://rvgpu.gitee.io 或者 https://rvgpu.github.io/pages/
+文档: https://rvgpu.github.io/pages/
 
 # 联系我们
 邮箱: qihangkong@outlook.com
